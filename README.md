@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @MichaelWes
 - 👀 I’m interested in mathematics, cryptology, operating systems, hardware design.
-- 🌱 I’m currently learning embedded software development (ARM, RISC-V, compilers, computer architecture, electrical circuits).
 - 💞️ I’m looking to collaborate on cryptology-related projects.
 - 📫 How to reach me: firstname dot lastname at gmail dot com.
 
