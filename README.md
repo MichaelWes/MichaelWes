@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @MichaelWes
-- 👀 I’m interested in mathematics, cryptology, operating systems, hardware design.
-- 💞️ I’m looking to collaborate on cryptology-related projects.
+- 👀 I’m interested in cryptology, operating systems, system software, and hardware design & computer architecture.
 - 📫 How to reach me: firstname dot lastname at gmail dot com.
 
 <!---
